@@ -3,3 +3,5 @@ Resolusi untuk tahun 2023
 
 - Mempelajari cara menggunakan Git dan GitHub
 - Mempelajari bahasa pemrograman Kotlin
+- Membentuk badan
+- Lulus Bangkit 2023!
