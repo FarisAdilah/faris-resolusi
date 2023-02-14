@@ -6,3 +6,6 @@ Rencana magang Faris
 - Menambah ilmu dalam android development
 - Belajar sampingan - Web Development
     1. Belajar frontend
+        - HTML
+        - CSS
+        - JS
