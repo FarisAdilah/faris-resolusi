@@ -1,0 +1,6 @@
+Rencana magang Faris
+====================
+
+- Belajar Kotlin
+- Belajar Git & GitHub
+- Menambah ilmu dalam android development
