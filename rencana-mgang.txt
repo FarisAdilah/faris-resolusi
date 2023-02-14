@@ -1,0 +1,5 @@
+Rencana magang Faris
+====================
+
+- Belajar Kotlin
+- Belajar Git & GitHub
